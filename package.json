@@ -1,0 +1,21 @@
+{
+  "name": "banana-dna-lab",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Phòng thí nghiệm ảo: Tách chiết DNA từ chuối",
+  "scripts": {
+    "dev": "vite --host",
+    "build": "vite build",
+    "preview": "vite preview --host"
+  },
+  "dependencies": {
+    "react": "^19.2.0",
+    "react-dom": "^19.2.0"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "^5.0.0",
+    "esbuild": "^0.25.0",
+    "vite": "^7.0.0"
+  }
+}
